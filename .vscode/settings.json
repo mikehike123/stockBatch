@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintArgs": [
+        "--ignored-modules=talib",
+        "--extension-pkg-whitelist=talib"
+    ]
+}
